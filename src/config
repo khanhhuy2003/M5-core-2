@@ -1,0 +1,4 @@
+#define WIFI_SSID       "BaoIphone"
+#define WIFI_PASSWORD   "123456789"
+#define ADAFRUIT_IO_USERNAME  "khanhhuy2003"
+#define ADAFRUIT_IO_KEY       "aio_lvVc393MViJyeUidjiXK7ptohMmg"
